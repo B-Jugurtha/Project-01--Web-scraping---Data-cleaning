@@ -6,18 +6,18 @@ A small where project where i collect data from the Ouedkniss web site & use pan
 
 ## Installation:
 
-1 - clone this project to your workspace: `<br />`
-``git clone this_project```<br />`
+1 - clone this project to your workspace: 
+``git clone this_project``
 2 - Download & install miniconda : https://docs.conda.io/en/latest/miniconda.html`<br />`
 
-3 - Update conda to latest version : `<br />`
-``conda update conda```<br />`
-4 - Create a conda envirement:`<br />`
-``conda create --name your_env_name```<br />`
-5 - Activate the envirenment:`<br />`
-``conda activate your_env_name```<br />`
-6 - Installing needed libraries:`<br />`
-``conda install pandas notebook```<br />`
-7 - Install Beautifulsoup:`<br />`
-``pip install beautifulsoup4```<br />`
-8 - Run the scripts in the defined order.`<br />`
+3 - Update conda to latest version :
+``conda update conda``
+4 - Create a conda envirement:
+``conda create --name your_env_name``
+5 - Activate the envirenment:
+``conda activate your_env_name``
+6 - Installing needed libraries:
+``conda install pandas notebook``
+7 - Install Beautifulsoup:
+``pip install beautifulsoup4``
+8 - Run the scripts in the defined order.
